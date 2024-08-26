@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am currently pursing my MBA at the Yale School of Management. Before business school, I was working in tech consulting for 4 years implementing custom software solutions for clients. I hold a BS in Computer Engineering and am fluent in C++, Python and JavaScript, but am always open for the challenge of a new language.
 <!--
 **bhoeltin19/bhoeltin19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
